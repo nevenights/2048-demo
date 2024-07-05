@@ -3,7 +3,7 @@
 ### Tecnologies Used:
 - HTML
 - CSS
-- JAVASCRIPT
+- JavaScript
 
 ### Preview:
 
