@@ -1,5 +1,5 @@
 # 2048
-
+ 
 ### Tecnologies Used:
 - HTML
 - CSS
