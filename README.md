@@ -7,4 +7,4 @@
 
 ### Preview:
 
-![Preview.][(https://github.com/wingplanr/2048/blob/main/image.png)](https://github.com/wingplanr/2048-demo/blob/main/image.png)
+![Preview](https://github.com/wingplanr/2048-demo/blob/main/image.png)
